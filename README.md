@@ -1,1 +1,1 @@
-ndnmd,asf,.
+This is kindnemo's first git project
